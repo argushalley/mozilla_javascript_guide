@@ -1,6 +1,6 @@
 /*
  * Scratchpad
- * variable_scope.js 
+ * variable_scope.js
  * ECMAScript 6 or later
  */
 
